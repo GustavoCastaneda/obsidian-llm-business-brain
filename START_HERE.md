@@ -17,6 +17,8 @@ Open this folder in Obsidian.
 
 ## 2. Install Skills
 
+This setup is designed for Codex or Claude Code running with local filesystem access to this vault. The standard ChatGPT web app cannot run this installer or maintain the local vault directly.
+
 For Codex:
 
 ```bash

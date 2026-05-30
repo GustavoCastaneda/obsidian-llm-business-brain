@@ -20,13 +20,19 @@ The pattern is simple:
 
 If this is your first time opening the vault, start with [[START_HERE]].
 
+## Supported Agent Environments
+
+This template is designed for Codex or Claude Code running with local filesystem access to the vault. These agents can read and update Markdown files, execute `install-skills.sh`, and load the local skills in `05-Agent-System/Skills-Src/`.
+
+The standard ChatGPT web app is not a drop-in runtime for this repository. It can work with uploaded files, projects, and connected apps, but it does not run this installer or maintain a local Obsidian vault directly.
+
 ## Suggested Setup
 
 1. Install [Obsidian](https://obsidian.md/) on your computer.
 2. Clone or download this repository.
 3. Open this folder as an Obsidian vault.
 4. Install optional Obsidian plugins: Dataview, Templater, Web Clipper, Marp.
-5. Choose an agent environment, such as Codex or Claude Code.
+5. Choose Codex or Claude Code as your local agent environment.
 6. Install the local skills for your agent.
 7. Connect and authenticate your own data connectors, such as Granola and Gmail.
 8. Customize `AGENTS.md` and `CLAUDE.md` for your company.
