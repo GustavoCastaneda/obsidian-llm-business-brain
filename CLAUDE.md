@@ -14,5 +14,6 @@ Maintain this Obsidian vault as a business second brain. Raw sources live in `01
 - Ask targeted questions when company context is missing, then file the answer.
 - Prefer durable Markdown artifacts over chat-only summaries.
 - For email imports, search only the requested scope, summarize threads into `01-Sources/Email/`, and avoid storing raw email bodies unless explicitly requested.
+- Use `02-Business/Operations/Action Tracker.md` as the central follow-up board. Propose newly detected actions before adding them unless the user explicitly asks to track them.
 
 See `AGENTS.md` for full workflows and page standards.

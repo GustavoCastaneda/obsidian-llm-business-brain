@@ -27,6 +27,10 @@ Local skills live in `05-Agent-System/Skills-Src/`. They are versioned here firs
 
 For a fresh or empty vault, use [[First Session Prompt]] and the local `business-vault-onboarding` skill. The agent should ask one question at a time and file answers into the correct business pages.
 
+## Action Tracking
+
+Use [[Action Tracker]] and the local `business-action-tracker` skill for pending actions, follow-ups, commitments, deadlines, and owners. The agent should propose newly detected actions and wait for user confirmation before adding them, unless the user explicitly asks to track an action.
+
 ## Finance Agent
 
 The vault includes a local `business-finance-strategist` skill for business model and pricing work. Use it only after reading enough context from Finance, GTM, Product, Sales, account pages, and investor notes. It can create memos, scenario tables, spreadsheets, charts, and reports. It should produce scenarios and assumptions, not unsupported final pricing.

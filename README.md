@@ -7,6 +7,7 @@ The pattern is simple:
 - Raw sources are immutable evidence.
 - The wiki is synthesized business knowledge.
 - MOCs are navigation hubs.
+- The Action Tracker is the central board for confirmed follow-ups.
 - Agents maintain the structure, links, index, and log.
 
 ## Start Here
@@ -31,6 +32,13 @@ If this is your first time opening the vault, start with [[START_HERE]].
 8. Customize `AGENTS.md` and `CLAUDE.md` for your company.
 9. Open [[START_HERE]] and paste the first-session prompt into your agent.
 10. Let `business-vault-onboarding` interview you one question at a time and fill the first pages.
+11. Review the first proposed follow-ups before your agent adds them to [[Action Tracker]].
+
+## Action Tracking
+
+Use [[Action Tracker]] as the central board for active business follow-ups. The local `business-action-tracker` skill can detect possible actions in meetings, email, account pages, legal notes, and founder interviews.
+
+The agent should propose newly detected actions and wait for your confirmation before adding them. It can add an action immediately when you explicitly ask it to track that action.
 
 ## Install Agent Skills
 

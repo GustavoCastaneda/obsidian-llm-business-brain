@@ -28,6 +28,7 @@ Ask one question at a time. Start with:
 
 After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md.
 
+After the interview, propose the first action items. Ask for confirmation before adding them to 02-Business/Operations/Action Tracker.md.
+
 Do not invent missing business facts. If something is unclear, add it as an open question.
 ```
-

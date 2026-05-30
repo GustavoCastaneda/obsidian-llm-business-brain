@@ -88,6 +88,16 @@ Source notes should include:
 
 Every important decision should create or update a note in `02-Business/Decisions/` and update `02-Business/Decisions/Decision Register.md`.
 
+## Action Tracking
+
+Use `02-Business/Operations/Action Tracker.md` as the central board for active follow-ups.
+
+- Actions may come from meetings, email, accounts, legal notes, business pages, or founder interviews.
+- Preserve source links for context.
+- Do not automatically add newly detected actions. Propose them to the user first.
+- Add immediately only when the user explicitly asks to track or add the action.
+- Update statuses as work changes: `todo`, `in-progress`, `blocked`, `done`, `needs-review`.
+
 ## Maintenance
 
 Periodically lint the vault for orphan pages, missing MOC links, broken Obsidian links, stale claims, contradictions, important recurring concepts without pages, and source notes not integrated into business pages.

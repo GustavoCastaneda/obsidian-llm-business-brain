@@ -46,7 +46,7 @@ This vault does not include credentials.
 Open a new agent session from this folder and paste:
 
 ```text
-Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-vault-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md.
+Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-vault-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md. After the interview, propose the first action items and ask for confirmation before adding them to the Action Tracker.
 ```
 
 ## 5. First Pages to Fill
@@ -59,6 +59,7 @@ Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and l
 - [[Sales Pipeline Notes]]
 - [[Financial Model Notes]]
 - [[Operating Cadence]]
+- [[Action Tracker]]
 
 ## 6. What Good Looks Like
 
@@ -70,5 +71,5 @@ After the first session, the vault should have:
 - current GTM channels
 - open questions
 - first decisions
+- confirmed next actions in [[Action Tracker]]
 - a log entry showing what changed
-

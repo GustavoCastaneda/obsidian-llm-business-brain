@@ -35,6 +35,7 @@ This is the content-oriented catalog for the vault. The agent should update it w
 - [[Financial Model Notes]]
 - [[Fundraising Narrative]]
 - [[Operating Cadence]]
+- [[Action Tracker]]
 - [[Technical Architecture]]
 - [[Decision Register]]
 - [[People Overview]]

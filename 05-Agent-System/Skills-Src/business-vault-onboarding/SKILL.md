@@ -23,6 +23,7 @@ Then inspect these pages before asking questions:
 - `02-Business/Product/Product Overview.md`
 - `02-Business/Customers/ICP.md`
 - `02-Business/GTM/GTM Strategy.md`
+- `02-Business/Operations/Action Tracker.md`
 
 ## Interview Flow
 
@@ -47,6 +48,12 @@ After each answer:
 - update `index.md` only when new important pages or collections are created
 - append an interview entry to `log.md`
 
+After the initial interview:
+
+- identify the first candidate follow-ups from the interview
+- propose them to the user
+- add only the actions the user confirms to `02-Business/Operations/Action Tracker.md`
+
 ## Good First Outcome
 
 The first onboarding session should leave the vault with:
@@ -57,10 +64,10 @@ The first onboarding session should leave the vault with:
 - ICP hypothesis
 - GTM channel list
 - current priority list
+- confirmed next actions
 - open questions
 - log entry
 
 ## Rule
 
 Do not overwhelm the user with a giant questionnaire. Ask one focused question, update the vault, then continue.
-

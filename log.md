@@ -30,3 +30,9 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 
 - Added [[START_HERE]], [[First Session Prompt]], and `business-vault-onboarding`.
 - Updated installer output, README, index, Agent System, and Skill Registry.
+
+## [2026-05-30] setup | Confirmed action tracking
+
+- Added [[Action Tracker]] as the central board for active business follow-ups.
+- Added `business-action-tracker` to propose newly detected actions and add them only after user confirmation.
+- Linked action tracking from onboarding, Operations, Agent System, README, and index.
