@@ -7,8 +7,8 @@ updated: 2026-05-30
 source_count: 1
 confidence: low
 tags:
-  - business-vault/customers
-  - business-vault/icp
+  - business-brain/customers
+  - business-brain/icp
 ---
 
 # ICP

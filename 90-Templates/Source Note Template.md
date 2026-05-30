@@ -8,7 +8,7 @@ updated: {{date}}
 source_date:
 confidence: medium
 tags:
-  - business-vault/source
+  - business-brain/source
 ---
 
 # {{title}}

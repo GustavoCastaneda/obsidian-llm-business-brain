@@ -1,6 +1,6 @@
 ---
 name: business-action-tracker
-description: Maintain the central Action Tracker for an Obsidian business vault, propose follow-ups detected in meetings, email, source notes, accounts, and business pages, and add them only after user confirmation.
+description: Maintain the central Action Tracker for an Obsidian Business Brain vault, propose follow-ups detected in meetings, email, source notes, accounts, and business pages, and add them only after user confirmation.
 ---
 
 # Business Action Tracker

@@ -5,7 +5,7 @@ area: GTM
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/moc
+  - business-brain/moc
 ---
 
 # MOC - GTM

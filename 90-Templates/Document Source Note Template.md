@@ -10,8 +10,8 @@ source_date:
 retrieved_date: {{date}}
 confidence: medium
 tags:
-  - business-vault/source
-  - business-vault/document
+  - business-brain/source
+  - business-brain/document
 ---
 
 # {{title}}

@@ -4,7 +4,7 @@ status: active
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/start
+  - business-brain/start
 ---
 
 # Start Here
@@ -49,7 +49,7 @@ This vault does not include credentials.
 Open a new agent session from this folder and paste:
 
 ```text
-Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-vault-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md. After the interview, propose the first action items and ask for confirmation before adding them to the Action Tracker.
+Use this Obsidian Business Brain vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-brain-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md. After the interview, propose the first action items and ask for confirmation before adding them to the Action Tracker.
 ```
 
 ## 5. First Pages to Fill

@@ -1,4 +1,4 @@
-# Obsidian LLM Business Vault Agent Instructions
+# Obsidian LLM Business Brain Agent Instructions
 
 This vault is a template for running an LLM-maintained business second brain in Obsidian. The agent maintains a persistent wiki: raw sources are evidence, business pages are synthesized knowledge, MOCs are navigation hubs, and `log.md` is the chronological audit trail.
 
@@ -80,7 +80,7 @@ updated: YYYY-MM-DD
 source_count: 0
 confidence: low
 tags:
-  - business-vault
+  - business-brain
 ---
 ```
 

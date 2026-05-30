@@ -11,8 +11,8 @@ created: {{date}}
 updated: {{date}}
 confidence: medium
 tags:
-  - business-vault/source
-  - business-vault/email
+  - business-brain/source
+  - business-brain/email
 ---
 
 # {{title}}

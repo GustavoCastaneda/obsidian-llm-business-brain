@@ -5,8 +5,8 @@ area: Documents
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/moc
-  - business-vault/documents
+  - business-brain/moc
+  - business-brain/documents
 ---
 
 # MOC - Documents

@@ -4,10 +4,10 @@ status: active
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/index
+  - business-brain/index
 ---
 
-# Business Vault Index
+# Business Brain Index
 
 This is the content-oriented catalog for the vault. The agent should update it whenever new sources, business pages, MOCs, outputs, or decisions are added.
 

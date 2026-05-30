@@ -1,6 +1,6 @@
 ---
 name: business-investor-intel
-description: Process investor meetings, fundraising feedback, objections, narrative changes, follow-ups, and proof gaps into the Obsidian business vault.
+description: Process investor meetings, fundraising feedback, objections, narrative changes, follow-ups, and proof gaps into an Obsidian Business Brain vault.
 ---
 
 # Investor Intel
@@ -23,4 +23,3 @@ Save durable outputs in:
 - `04-Outputs/Investor-Updates/`
 - `04-Outputs/Briefings/`
 - `04-Outputs/Strategy-Memos/`
-

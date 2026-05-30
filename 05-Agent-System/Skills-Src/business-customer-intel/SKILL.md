@@ -1,6 +1,6 @@
 ---
 name: business-customer-intel
-description: Process customer conversations, pain points, use cases, objections, buying triggers, and product feedback into the Obsidian business vault.
+description: Process customer conversations, pain points, use cases, objections, buying triggers, and product feedback into an Obsidian Business Brain vault.
 ---
 
 # Customer Intel
@@ -20,4 +20,3 @@ Use this skill for customer calls, prospect calls, discovery notes, and user res
 ## Rule
 
 Separate direct customer language from synthesis. Quote sparingly and link back to the source note.
-

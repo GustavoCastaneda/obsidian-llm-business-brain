@@ -5,7 +5,7 @@ area: Agent-System
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/agent-system
+  - business-brain/agent-system
 ---
 
 # Agent System
@@ -25,7 +25,7 @@ Local skills live in `05-Agent-System/Skills-Src/`. They are versioned here firs
 
 ## First Session
 
-For a fresh or empty vault, use [[First Session Prompt]] and the local `business-vault-onboarding` skill. The agent should ask one question at a time and file answers into the correct business pages.
+For a fresh or empty vault, use [[First Session Prompt]] and the local `business-brain-onboarding` skill. The agent should ask one question at a time and file answers into the correct business pages.
 
 ## Action Tracking
 

@@ -14,10 +14,10 @@ created: 2026-05-30
 updated: 2026-05-30
 confidence: medium
 tags:
-  - business-vault/source
-  - business-vault/email
-  - business-vault/example
-  - business-vault/customer
+  - business-brain/source
+  - business-brain/email
+  - business-brain/example
+  - business-brain/customer
 ---
 
 # 2026-01-20 - Example Customer Follow-up Email

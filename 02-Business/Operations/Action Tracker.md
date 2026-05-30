@@ -7,8 +7,8 @@ updated: 2026-05-30
 source_count: 0
 confidence: medium
 tags:
-  - business-vault/operations
-  - business-vault/actions
+  - business-brain/operations
+  - business-brain/actions
 ---
 
 # Action Tracker

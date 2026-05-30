@@ -1,4 +1,4 @@
-# Obsidian LLM Business Vault Instructions for Claude Code
+# Obsidian LLM Business Brain Instructions for Claude Code
 
 This file mirrors `AGENTS.md` for Claude Code compatibility. Follow `AGENTS.md` as the source of truth when there is any conflict.
 

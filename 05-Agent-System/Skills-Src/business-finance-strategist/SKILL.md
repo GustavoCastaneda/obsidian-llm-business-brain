@@ -1,6 +1,6 @@
 ---
 name: business-finance-strategist
-description: Analyze a company's business model, pricing, unit economics, setup fees, SaaS consumption model, margins, runway, and fundraising assumptions using context from an Obsidian business vault.
+description: Analyze a company's business model, pricing, unit economics, setup fees, SaaS consumption model, margins, runway, and fundraising assumptions using context from an Obsidian Business Brain vault.
 ---
 
 # Business Finance Strategist

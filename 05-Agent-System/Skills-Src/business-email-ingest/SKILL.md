@@ -1,6 +1,6 @@
 ---
 name: business-email-ingest
-description: Import Gmail, Outlook, or pasted email threads into an Obsidian business vault by summarizing thread context, extracting commitments, decisions, follow-ups, and updating business pages, MOCs, index.md, and log.md.
+description: Import Gmail, Outlook, or pasted email threads into an Obsidian Business Brain vault by summarizing thread context, extracting commitments, decisions, follow-ups, and updating business pages, MOCs, index.md, and log.md.
 ---
 
 # Business Email Ingest
@@ -25,4 +25,3 @@ Do not store full raw email bodies unless the user explicitly requests it. Prefe
 ## Source Note
 
 Use `90-Templates/Email Source Note Template.md` as the shape for durable email thread notes.
-

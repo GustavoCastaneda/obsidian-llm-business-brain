@@ -78,6 +78,14 @@ esac
 
 mkdir -p "$dest"
 
+for legacy_skill in business-vault-onboarding business-vault-maintainer; do
+  legacy_dir="$dest/$legacy_skill"
+  if [[ -d "$legacy_dir" ]]; then
+    rm -rf "$legacy_dir"
+    echo "Removed legacy skill $legacy_skill -> $legacy_dir"
+  fi
+done
+
 installed=0
 for skill_dir in "$SKILLS_SRC"/*; do
   [[ -d "$skill_dir" ]] || continue
@@ -105,5 +113,5 @@ echo "2. Open a fresh session from this vault root."
 echo "3. Paste this prompt:"
 echo
 cat <<'EOF'
-Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-vault-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md. After the interview, propose the first action items and ask for confirmation before adding them to the Action Tracker.
+Use this Obsidian Business Brain vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-brain-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md. After the interview, propose the first action items and ask for confirmation before adding them to the Action Tracker.
 EOF

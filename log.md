@@ -4,10 +4,10 @@ status: active
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/log
+  - business-brain/log
 ---
 
-# Business Vault Log
+# Business Brain Log
 
 Append-only operational history for ingests, queries, lint passes, and decisions.
 
@@ -28,7 +28,7 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 
 ## [2026-05-30] setup | First-session onboarding
 
-- Added [[START_HERE]], [[First Session Prompt]], and `business-vault-onboarding`.
+- Added [[START_HERE]], [[First Session Prompt]], and `business-brain-onboarding`.
 - Updated installer output, README, index, Agent System, and Skill Registry.
 
 ## [2026-05-30] setup | Confirmed action tracking
@@ -42,3 +42,10 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 - Added [[MOC - Documents]], a document source-note template, and provider folders for Drive, Dropbox, OneDrive, SharePoint, and local files.
 - Added `business-cloud-document-ingest` for scoped document retrieval and lightweight source-note creation.
 - Documented connector requirements, privacy rules, and specialized analysis routing.
+
+## [2026-05-30] setup | Business Brain rename
+
+- Renamed the public template from Obsidian LLM Business Vault to Obsidian LLM Business Brain.
+- Renamed onboarding and maintenance skills to `business-brain-onboarding` and `business-brain-maintainer`.
+- Migrated internal tags from `business-vault/` to `business-brain/`.
+- Added installer cleanup for the two legacy skill directories.

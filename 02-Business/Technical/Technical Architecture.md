@@ -7,7 +7,7 @@ updated: 2026-05-30
 source_count: 0
 confidence: low
 tags:
-  - business-vault/technical
+  - business-brain/technical
 ---
 
 # Technical Architecture

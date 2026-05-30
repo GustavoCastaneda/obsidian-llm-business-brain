@@ -1,6 +1,6 @@
 ---
 name: business-cloud-document-ingest
-description: Retrieve business documents from Google Drive, Google Docs, Dropbox, OneDrive, SharePoint, or local files into an Obsidian business vault using scoped searches, lightweight source notes, and routing to specialized business skills.
+description: Retrieve business documents from Google Drive, Google Docs, Dropbox, OneDrive, SharePoint, or local files into an Obsidian Business Brain vault using scoped searches, lightweight source notes, and routing to specialized business skills.
 ---
 
 # Business Cloud Document Ingest

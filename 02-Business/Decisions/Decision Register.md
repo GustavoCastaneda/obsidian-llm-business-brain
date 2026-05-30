@@ -5,7 +5,7 @@ area: Decisions
 created: 2026-05-30
 updated: 2026-05-30
 tags:
-  - business-vault/decisions
+  - business-brain/decisions
 ---
 
 # Decision Register

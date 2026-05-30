@@ -7,7 +7,7 @@ updated: {{date}}
 source_count: 0
 confidence: low
 tags:
-  - business-vault/wiki
+  - business-brain/wiki
 ---
 
 # {{title}}

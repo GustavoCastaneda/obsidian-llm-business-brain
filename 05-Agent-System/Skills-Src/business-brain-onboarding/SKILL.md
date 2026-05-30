@@ -1,9 +1,9 @@
 ---
-name: business-vault-onboarding
-description: Run the first onboarding interview for a new or empty Obsidian business vault, asking one question at a time and filling core business pages, index.md, and log.md.
+name: business-brain-onboarding
+description: Run the first onboarding interview for a new or empty Obsidian Business Brain vault, asking one question at a time and filling core business pages, index.md, and log.md.
 ---
 
-# Business Vault Onboarding
+# Business Brain Onboarding
 
 Use this skill when a user opens a fresh vault, asks where to start, says hello in a new vault, or wants to initialize the business knowledge base.
 

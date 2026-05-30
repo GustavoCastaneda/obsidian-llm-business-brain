@@ -8,7 +8,7 @@ decision_date:
 owner:
 confidence: medium
 tags:
-  - business-vault/decision
+  - business-brain/decision
 ---
 
 # {{title}}

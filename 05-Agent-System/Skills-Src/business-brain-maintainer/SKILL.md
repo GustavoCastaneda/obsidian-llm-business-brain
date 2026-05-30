@@ -1,11 +1,11 @@
 ---
-name: business-vault-maintainer
-description: Maintain an Obsidian LLM business vault by updating MOCs, index.md, log.md, backlinks, frontmatter, and vault health after ingests, queries, decisions, or structural changes.
+name: business-brain-maintainer
+description: Maintain an Obsidian Business Brain vault by updating MOCs, index.md, log.md, backlinks, frontmatter, and vault health after ingests, queries, decisions, or structural changes.
 ---
 
-# Business Vault Maintainer
+# Business Brain Maintainer
 
-Use this skill when maintaining the Obsidian business vault as a persistent company wiki.
+Use this skill when maintaining the Obsidian Business Brain vault as a persistent company wiki.
 
 ## Workflow
 
@@ -19,4 +19,3 @@ Use this skill when maintaining the Obsidian business vault as a persistent comp
 ## Health Checks
 
 Check for broken links, orphan pages, missing frontmatter, source notes not linked from business pages, MOCs missing new pages, stale claims, and contradictory claims.
-

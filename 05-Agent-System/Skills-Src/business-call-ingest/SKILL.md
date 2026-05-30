@@ -1,6 +1,6 @@
 ---
 name: business-call-ingest
-description: Import meeting notes or transcripts into the Obsidian business vault, classify meetings, create source notes, extract insights, and update business pages, MOCs, index.md, and log.md.
+description: Import meeting notes or transcripts into an Obsidian Business Brain vault, classify meetings, create source notes, extract insights, and update business pages, MOCs, index.md, and log.md.
 ---
 
 # Business Call Ingest
@@ -20,4 +20,3 @@ Use this skill when importing calls from Granola, another meeting tool, or paste
 ## Privacy
 
 Preserve business-relevant facts. Avoid storing unnecessary personal details.
-

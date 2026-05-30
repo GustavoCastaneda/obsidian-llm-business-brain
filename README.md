@@ -1,4 +1,4 @@
-# Obsidian LLM Business Vault
+# Obsidian LLM Business Brain
 
 A public template for building an LLM-maintained business second brain in Obsidian.
 
@@ -37,7 +37,7 @@ The standard ChatGPT web app is not a drop-in runtime for this repository. It ca
 7. Connect and authenticate your own data connectors, such as Granola and Gmail.
 8. Customize `AGENTS.md` and `CLAUDE.md` for your company.
 9. Open [[START_HERE]] and paste the first-session prompt into your agent.
-10. Let `business-vault-onboarding` interview you one question at a time and fill the first pages.
+10. Let `business-brain-onboarding` interview you one question at a time and fill the first pages.
 11. Review the first proposed follow-ups before your agent adds them to [[Action Tracker]].
 
 ## Action Tracking
