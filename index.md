@@ -51,3 +51,9 @@ This is the content-oriented catalog for the vault. The agent should update it w
 
 - [[Agent System]]
 - [[Skill Registry]]
+
+## Finance Outputs
+
+- `04-Outputs/Financial-Models/`
+- `04-Outputs/Pricing-Memos/`
+- `04-Outputs/Scenario-Tables/`

@@ -19,6 +19,7 @@ tags:
 - `business-decision-capture` - turn decisions into durable decision notes and register entries.
 - `business-investor-intel` - process investor calls and fundraising intelligence.
 - `business-customer-intel` - process customer calls and customer intelligence.
+- `business-finance-strategist` - analyze pricing, business model, unit economics, setup fees, SaaS consumption model, and fundraising assumptions using vault context.
 
 ## Promotion Rule
 

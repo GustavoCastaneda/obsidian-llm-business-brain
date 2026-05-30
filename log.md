@@ -19,3 +19,9 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 ## [2026-05-30] setup | Email ingest template
 
 - Added email source folders, email MOC, email source template, example email thread, and `business-email-ingest` local skill.
+
+## [2026-05-30] setup | Finance strategist template
+
+- Added `business-finance-strategist` local skill.
+- Added output folders for pricing memos, financial models, and scenario tables.
+- Updated Financial Model Notes, Agent System, Skill Registry, and index.

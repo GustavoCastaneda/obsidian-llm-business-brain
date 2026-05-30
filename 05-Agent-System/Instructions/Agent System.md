@@ -22,3 +22,6 @@ This folder contains the local operating system for agents working in this vault
 
 Local skills live in `05-Agent-System/Skills-Src/`. They are versioned here first, then can be installed into an agent environment once workflows stabilize.
 
+## Finance Agent
+
+The vault includes a local `business-finance-strategist` skill for business model and pricing work. Use it only after reading enough context from Finance, GTM, Product, Sales, account pages, and investor notes. It can create memos, scenario tables, spreadsheets, charts, and reports. It should produce scenarios and assumptions, not unsupported final pricing.
