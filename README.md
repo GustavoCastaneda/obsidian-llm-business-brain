@@ -11,10 +11,13 @@ The pattern is simple:
 
 ## Start Here
 
+- [[START_HERE]]
 - [[index]]
 - [[MOC - Strategy]]
 - [[MOC - Calls]]
 - [[MOC - Decisions]]
+
+If this is your first time opening the vault, start with [[START_HERE]].
 
 ## Suggested Setup
 
@@ -26,7 +29,8 @@ The pattern is simple:
 6. Install the local skills for your agent.
 7. Connect and authenticate your own data connectors, such as Granola and Gmail.
 8. Customize `AGENTS.md` and `CLAUDE.md` for your company.
-9. Start by filling [[Company Overview]], [[Current Strategy]], [[ICP]], and [[Product Overview]].
+9. Open [[START_HERE]] and paste the first-session prompt into your agent.
+10. Let `business-vault-onboarding` interview you one question at a time and fill the first pages.
 
 ## Install Agent Skills
 
@@ -59,6 +63,8 @@ You can override the destination:
 ```
 
 Restart your agent session after installing skills.
+
+After restarting, open a fresh agent session from the vault root and paste the prompt in [[First Session Prompt]].
 
 ## Connectors and Credentials
 

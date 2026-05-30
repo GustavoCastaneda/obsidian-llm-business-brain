@@ -25,3 +25,8 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 - Added `business-finance-strategist` local skill.
 - Added output folders for pricing memos, financial models, and scenario tables.
 - Updated Financial Model Notes, Agent System, Skill Registry, and index.
+
+## [2026-05-30] setup | First-session onboarding
+
+- Added [[START_HERE]], [[First Session Prompt]], and `business-vault-onboarding`.
+- Updated installer output, README, index, Agent System, and Skill Registry.

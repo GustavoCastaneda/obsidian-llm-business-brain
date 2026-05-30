@@ -13,6 +13,7 @@ This is the content-oriented catalog for the vault. The agent should update it w
 
 ## Start Here
 
+- [[START_HERE]] - first-session setup and onboarding guide.
 - [[MOC - Strategy]] - company direction, narrative, operating thesis.
 - [[MOC - Product]] - product, roadmap, user problems, architecture implications.
 - [[MOC - Customers]] - ICP, customer conversations, pain points, proof.
@@ -51,6 +52,7 @@ This is the content-oriented catalog for the vault. The agent should update it w
 
 - [[Agent System]]
 - [[Skill Registry]]
+- [[First Session Prompt]]
 
 ## Finance Outputs
 

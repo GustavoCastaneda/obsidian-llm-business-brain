@@ -15,12 +15,17 @@ This folder contains the local operating system for agents working in this vault
 ## Core Files
 
 - [[Skill Registry]]
+- [[First Session Prompt]]
 - `AGENTS.md`
 - `CLAUDE.md`
 
 ## Local Skill Source
 
 Local skills live in `05-Agent-System/Skills-Src/`. They are versioned here first, then can be installed into an agent environment once workflows stabilize.
+
+## First Session
+
+For a fresh or empty vault, use [[First Session Prompt]] and the local `business-vault-onboarding` skill. The agent should ask one question at a time and file answers into the correct business pages.
 
 ## Finance Agent
 

@@ -12,6 +12,7 @@ tags:
 
 ## Local Skills
 
+- `business-vault-onboarding` - run the first founder interview for a fresh vault and fill the initial business pages.
 - `business-vault-maintainer` - maintain MOCs, index, logs, links, and vault health.
 - `business-call-ingest` - convert meeting notes into source notes and business synthesis.
 - `business-email-ingest` - convert email threads into source notes and business synthesis.

@@ -98,4 +98,12 @@ echo "Restart your agent session so it can reload available skills."
 echo
 echo "Note: connectors/MCP servers such as Granola or Gmail are not installed by this script."
 echo "Install and authenticate those separately in your agent environment."
-
+echo
+echo "Next step:"
+echo "1. Restart your agent session."
+echo "2. Open a fresh session from this vault root."
+echo "3. Paste this prompt:"
+echo
+cat <<'EOF'
+Use this Obsidian business vault. Read AGENTS.md, START_HERE.md, index.md, and log.md. Then use business-vault-onboarding to run a first founder interview. Ask one question at a time, starting with my name, company name, what the company does, ICP, product status, GTM, and current priorities. After each answer, update the right pages in 02-Business, update index.md if needed, and append to log.md.
+EOF
