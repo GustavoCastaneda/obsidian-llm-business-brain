@@ -19,6 +19,7 @@ This is the content-oriented catalog for the vault. The agent should update it w
 - [[MOC - GTM]] - channels, positioning, segmentation, motion.
 - [[MOC - Fundraising]] - investor narrative, investor calls, fundraising process.
 - [[MOC - Calls]] - meeting intelligence.
+- [[MOC - Emails]] - email intelligence and thread summaries.
 - [[MOC - Decisions]] - decision register and decision notes.
 
 ## Core Business Pages
@@ -44,9 +45,9 @@ This is the content-oriented catalog for the vault. The agent should update it w
 ## Example Sources
 
 - [[2026-01-15 - Example Customer Discovery Call]]
+- [[2026-01-20 - Example Customer Follow-up Email]]
 
 ## Agent System
 
 - [[Agent System]]
 - [[Skill Registry]]
-

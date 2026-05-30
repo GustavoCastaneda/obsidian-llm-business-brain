@@ -16,3 +16,6 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 - Created initial Obsidian business vault template.
 - Added operating instructions, index, log, MOCs, business seed pages, local skills, templates, and one fictional example source.
 
+## [2026-05-30] setup | Email ingest template
+
+- Added email source folders, email MOC, email source template, example email thread, and `business-email-ingest` local skill.

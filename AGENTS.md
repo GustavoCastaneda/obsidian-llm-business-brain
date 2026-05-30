@@ -37,6 +37,20 @@ When asked to import meetings from Granola, another meeting tool, or pasted tran
 
 For sensitive calls, preserve useful business knowledge while avoiding unnecessary personal details.
 
+## Email Workflow
+
+When asked to import or analyze email from Gmail, Outlook, or another mailbox connector:
+
+1. Search only the mailbox scope requested by the user, such as a sender, domain, label, thread, date range, or query.
+2. Prefer thread-level context over isolated messages when the connector supports it.
+3. Classify each relevant thread as `customer`, `investor`, `partner`, `candidate`, `internal`, or `other`.
+4. Create a source note under `01-Sources/Email/<Tool>/<Category>/`.
+5. Extract participants, subject, date range, context, commitments, decisions, open questions, follow-ups, and business areas affected.
+6. Do not store full raw email bodies unless the user explicitly asks. Prefer concise source notes with short excerpts only when needed.
+7. Update related business pages in `02-Business/`, affected MOCs, `index.md`, and `log.md`.
+
+For sensitive email, preserve the business signal and minimize personal data. Never commit credentials, auth tokens, email exports, or private attachments to a public repo.
+
 ## Page Standards
 
 Use frontmatter when creating structured pages:
@@ -77,4 +91,3 @@ Every important decision should create or update a note in `02-Business/Decision
 ## Maintenance
 
 Periodically lint the vault for orphan pages, missing MOC links, broken Obsidian links, stale claims, contradictions, important recurring concepts without pages, and source notes not integrated into business pages.
-

@@ -13,6 +13,6 @@ Maintain this Obsidian vault as a business second brain. Raw sources live in `01
 - Update business pages, MOCs, `index.md`, and `log.md` after meaningful ingests.
 - Ask targeted questions when company context is missing, then file the answer.
 - Prefer durable Markdown artifacts over chat-only summaries.
+- For email imports, search only the requested scope, summarize threads into `01-Sources/Email/`, and avoid storing raw email bodies unless explicitly requested.
 
 See `AGENTS.md` for full workflows and page standards.
-

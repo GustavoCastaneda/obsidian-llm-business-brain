@@ -21,10 +21,10 @@ The pattern is simple:
 1. Open this folder as an Obsidian vault.
 2. Install optional plugins: Dataview, Templater, Web Clipper, Marp.
 3. Connect your meeting source, such as Granola MCP, if available.
-4. Customize `AGENTS.md` and `CLAUDE.md` for your company.
-5. Start by filling [[Company Overview]], [[Current Strategy]], [[ICP]], and [[Product Overview]].
+4. Connect your email source, such as Gmail or Outlook, if available.
+5. Customize `AGENTS.md` and `CLAUDE.md` for your company.
+6. Start by filling [[Company Overview]], [[Current Strategy]], [[ICP]], and [[Product Overview]].
 
 ## Privacy Note
 
-This template intentionally contains only fictional examples. Do not commit real meeting transcripts, customer names, investor details, credentials, OAuth tokens, or private strategy to a public repo.
-
+This template intentionally contains only fictional examples. Do not commit real meeting transcripts, customer names, investor details, credentials, OAuth tokens, private email threads, or private strategy to a public repo.
