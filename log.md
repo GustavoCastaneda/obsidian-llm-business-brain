@@ -36,3 +36,9 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 - Added [[Action Tracker]] as the central board for active business follow-ups.
 - Added `business-action-tracker` to propose newly detected actions and add them only after user confirmation.
 - Linked action tracking from onboarding, Operations, Agent System, README, and index.
+
+## [2026-05-30] setup | Cloud document ingest
+
+- Added [[MOC - Documents]], a document source-note template, and provider folders for Drive, Dropbox, OneDrive, SharePoint, and local files.
+- Added `business-cloud-document-ingest` for scoped document retrieval and lightweight source-note creation.
+- Documented connector requirements, privacy rules, and specialized analysis routing.

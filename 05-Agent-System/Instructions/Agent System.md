@@ -31,6 +31,10 @@ For a fresh or empty vault, use [[First Session Prompt]] and the local `business
 
 Use [[Action Tracker]] and the local `business-action-tracker` skill for pending actions, follow-ups, commitments, deadlines, and owners. The agent should propose newly detected actions and wait for user confirmation before adding them, unless the user explicitly asks to track an action.
 
+## Cloud Document Retrieval
+
+Use [[MOC - Documents]] and the local `business-cloud-document-ingest` skill to retrieve business documents from connected cloud storage or local file paths. Search only within the user-requested scope, preserve a lightweight source note with a link to the original, and route domain-specific analysis to the relevant business skill.
+
 ## Finance Agent
 
 The vault includes a local `business-finance-strategist` skill for business model and pricing work. Use it only after reading enough context from Finance, GTM, Product, Sales, account pages, and investor notes. It can create memos, scenario tables, spreadsheets, charts, and reports. It should produce scenarios and assumptions, not unsupported final pricing.

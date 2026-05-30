@@ -39,6 +39,7 @@ Connect and authenticate your own tools in your agent environment:
 
 - Granola or another meeting source
 - Gmail or Outlook
+- Google Drive, Dropbox, OneDrive, SharePoint, or local files
 - calendar, CRM, docs, or data tools as needed
 
 This vault does not include credentials.

@@ -82,17 +82,24 @@ After restarting, open a fresh agent session from the vault root and paste the p
 
 ## Connectors and Credentials
 
-This template includes workflows for meetings and email, but it does not include credentials or connector authentication.
+This template includes workflows for meetings, email, and cloud documents, but it does not include credentials or connector authentication.
 
 You must install and authenticate connectors in your own agent environment:
 
 - Granola for meeting notes and transcripts.
 - Gmail or Outlook for email threads.
+- Google Drive and Google Docs, Dropbox, OneDrive, or SharePoint for cloud documents.
 - Any other CRM, calendar, docs, or data connectors you want to use.
 
 For Codex, connectors may be installed as plugins or MCP servers depending on the connector. For example, Granola can be configured through its MCP endpoint if your environment supports MCP. Gmail/Outlook require their own connector authentication.
 
 For Claude Code, configure the equivalent MCP servers/connectors in your Claude Code environment.
+
+## Cloud Document Retrieval
+
+Use `business-cloud-document-ingest` to retrieve documents from supported cloud storage or local files when your agent environment has access. The workflow searches only within the scope you request, such as a folder, filename, owner, date range, file type, or keywords.
+
+By default, the vault stores a lightweight Markdown source note with metadata, a summary, and a link to the original document. It does not download or commit a full local copy unless you explicitly request it or the workflow requires one.
 
 Do not commit connector credentials, OAuth tokens, `.env` files, mailbox exports, or private meeting transcripts to a public repository.
 

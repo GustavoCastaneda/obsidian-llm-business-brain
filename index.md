@@ -21,6 +21,7 @@ This is the content-oriented catalog for the vault. The agent should update it w
 - [[MOC - Fundraising]] - investor narrative, investor calls, fundraising process.
 - [[MOC - Calls]] - meeting intelligence.
 - [[MOC - Emails]] - email intelligence and thread summaries.
+- [[MOC - Documents]] - cloud and local document evidence.
 - [[MOC - Decisions]] - decision register and decision notes.
 
 ## Core Business Pages

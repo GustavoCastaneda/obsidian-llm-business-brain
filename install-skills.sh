@@ -96,7 +96,7 @@ echo
 echo "Installed $installed skills for target '$target'."
 echo "Restart your agent session so it can reload available skills."
 echo
-echo "Note: connectors/MCP servers such as Granola or Gmail are not installed by this script."
+echo "Note: connectors/MCP servers such as Granola, Gmail, or cloud storage providers are not installed by this script."
 echo "Install and authenticate those separately in your agent environment."
 echo
 echo "Next step:"

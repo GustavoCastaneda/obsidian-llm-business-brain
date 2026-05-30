@@ -51,6 +51,21 @@ When asked to import or analyze email from Gmail, Outlook, or another mailbox co
 
 For sensitive email, preserve the business signal and minimize personal data. Never commit credentials, auth tokens, email exports, or private attachments to a public repo.
 
+## Document Workflow
+
+When asked to retrieve or ingest a business document from Google Drive, Google Docs, Dropbox, OneDrive, SharePoint, or local files:
+
+1. Use the available connector or filesystem path. If access is unavailable, tell the user what connector or path is needed.
+2. Search only within the requested scope, such as folder, path, document name, owner, date range, type, or keywords.
+3. If multiple plausible documents match, ask the user to choose before ingesting content.
+4. Create a lightweight source note under `01-Sources/Docs/<Provider>/<Category>/`.
+5. Preserve metadata, the original URL or path, a concise summary, decisions, open questions, follow-ups, and affected areas.
+6. Do not download or commit the complete document by default. Preserve a local copy only when requested or required by a specific workflow.
+7. Route specialized analysis to the relevant business skill.
+8. Update [[MOC - Documents]], affected MOCs, `index.md`, and `log.md`.
+
+Do not crawl an entire storage account or perform bulk synchronization unless the user explicitly requests and confirms it. Never store credentials, auth tokens, or connector secrets in the vault.
+
 ## Page Standards
 
 Use frontmatter when creating structured pages:

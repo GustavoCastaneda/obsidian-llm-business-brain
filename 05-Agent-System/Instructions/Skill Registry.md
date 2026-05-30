@@ -14,6 +14,7 @@ tags:
 
 - `business-vault-onboarding` - run the first founder interview for a fresh vault and fill the initial business pages.
 - `business-action-tracker` - maintain the central board for confirmed actions and propose newly detected follow-ups before adding them.
+- `business-cloud-document-ingest` - retrieve cloud or local business documents through scoped searches, create lightweight source notes, and route specialized analysis.
 - `business-vault-maintainer` - maintain MOCs, index, logs, links, and vault health.
 - `business-call-ingest` - convert meeting notes into source notes and business synthesis.
 - `business-email-ingest` - convert email threads into source notes and business synthesis.
