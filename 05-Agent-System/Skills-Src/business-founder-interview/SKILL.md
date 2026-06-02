@@ -5,6 +5,10 @@ description: Interview the founder about the company and file answers into the c
 
 # Business Interview
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when company context is missing and the founder can provide the source of truth.
 
 ## Workflow

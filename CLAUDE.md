@@ -6,6 +6,8 @@ This file mirrors `AGENTS.md` for Claude Code compatibility. Follow `AGENTS.md` 
 
 Maintain this Obsidian vault as a business second brain. Raw sources live in `01-Sources/`; synthesized business knowledge lives in `02-Business/`; navigation lives in `03-MOCs/`; durable outputs live in `04-Outputs/`; agent rules and skill source live in `05-Agent-System/`.
 
+Before creating files, changing structure, or preserving sensitive content, read the relevant files in `05-Agent-System/Rules/`.
+
 ## Required Behavior
 
 - Use Obsidian links with `[[Page Name]]`.

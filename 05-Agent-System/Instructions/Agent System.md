@@ -23,6 +23,15 @@ This folder contains the local operating system for agents working in this vault
 
 Local skills live in `05-Agent-System/Skills-Src/`. They are versioned here first, then can be installed into an agent environment once workflows stabilize.
 
+## Shared Rules
+
+All agents should read the relevant rules before creating files, changing structure, or preserving sensitive content:
+
+- [[Filing Rules]]
+- [[Output Rules]]
+- [[Privacy Rules]]
+- [[Operating Rules]]
+
 ## First Session
 
 For a fresh or empty vault, use [[First Session Prompt]] and the local `business-brain-onboarding` skill. The agent should ask one question at a time and file answers into the correct business pages.

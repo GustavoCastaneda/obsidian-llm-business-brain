@@ -5,6 +5,10 @@ description: Capture business decisions as durable Obsidian notes with context, 
 
 # Business Decision Capture
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when a decision is made, discovered in a meeting, or reconstructed from prior context.
 
 ## Workflow

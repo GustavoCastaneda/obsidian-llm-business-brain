@@ -5,6 +5,10 @@ description: Analyze a company's business model, pricing, unit economics, setup 
 
 # Business Finance Strategist
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when working on business model, pricing, financial model, unit economics, fundraising assumptions, or monetization strategy. This skill may create Markdown memos, scenario tables, spreadsheets, charts, and other durable outputs when useful.
 
 ## Context First

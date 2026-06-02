@@ -5,6 +5,10 @@ description: Import Gmail, Outlook, or pasted email threads into an Obsidian Bus
 
 # Business Email Ingest
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when importing, searching, summarizing, or extracting business knowledge from email threads.
 
 ## Workflow

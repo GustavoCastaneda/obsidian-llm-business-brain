@@ -5,6 +5,10 @@ description: Retrieve business documents from Google Drive, Google Docs, Dropbox
 
 # Business Cloud Document Ingest
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when the user asks to find, retrieve, read, import, or preserve a business document from cloud storage or a local file path.
 
 ## Supported Sources
