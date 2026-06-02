@@ -5,6 +5,10 @@ description: Maintain an Obsidian Business Brain vault by updating MOCs, index.m
 
 # Business Brain Maintainer
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when maintaining the Obsidian Business Brain vault as a persistent company wiki.
 
 ## Workflow

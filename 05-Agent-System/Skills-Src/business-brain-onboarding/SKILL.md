@@ -5,6 +5,10 @@ description: Run the first onboarding interview for a new or empty Obsidian Busi
 
 # Business Brain Onboarding
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when a user opens a fresh vault, asks where to start, says hello in a new vault, or wants to initialize the business knowledge base.
 
 ## Read First

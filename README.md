@@ -46,6 +46,10 @@ Use [[Action Tracker]] as the central board for active business follow-ups. The 
 
 The agent should propose newly detected actions and wait for your confirmation before adding them. It can add an action immediately when you explicitly ask it to track that action.
 
+## Shared Agent Rules
+
+The files in `05-Agent-System/Rules/` act as versioned policy for every agent. They tell agents to reuse existing structure before creating pages or folders, preserve source-backed links, minimize sensitive data, and propose structural changes before applying them.
+
 ## Install Agent Skills
 
 Skills live in `05-Agent-System/Skills-Src/`. They are versioned in this repo, but your agent will not automatically install them after `git pull`. Run the installer explicitly.

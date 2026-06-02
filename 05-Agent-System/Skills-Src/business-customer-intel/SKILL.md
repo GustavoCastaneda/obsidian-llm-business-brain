@@ -5,6 +5,10 @@ description: Process customer conversations, pain points, use cases, objections,
 
 # Customer Intel
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill for customer calls, prospect calls, discovery notes, and user research.
 
 ## Workflow

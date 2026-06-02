@@ -5,6 +5,10 @@ description: Maintain the central Action Tracker for an Obsidian Business Brain 
 
 # Business Action Tracker
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when the user asks about pending actions, follow-ups, todos, commitments, deadlines, owners, or what needs attention next.
 
 ## Read First

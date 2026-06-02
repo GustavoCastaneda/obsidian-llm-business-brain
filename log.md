@@ -49,3 +49,9 @@ Append-only operational history for ingests, queries, lint passes, and decisions
 - Renamed onboarding and maintenance skills to `business-brain-onboarding` and `business-brain-maintainer`.
 - Migrated internal tags from `business-vault/` to `business-brain/`.
 - Added installer cleanup for the two legacy skill directories.
+
+## [2026-06-02] setup | Shared agent rules
+
+- Added [[Filing Rules]], [[Output Rules]], [[Privacy Rules]], and [[Operating Rules]].
+- Required agents to reuse existing structure and propose new folders or MOCs before creating them.
+- Linked shared rules from agent instructions, README, and index.

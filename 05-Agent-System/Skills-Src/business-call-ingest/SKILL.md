@@ -5,6 +5,10 @@ description: Import meeting notes or transcripts into an Obsidian Business Brain
 
 # Business Call Ingest
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill when importing calls from Granola, another meeting tool, or pasted meeting transcripts.
 
 ## Workflow

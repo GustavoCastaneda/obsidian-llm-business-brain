@@ -55,6 +55,10 @@ This is the content-oriented catalog for the vault. The agent should update it w
 - [[Agent System]]
 - [[Skill Registry]]
 - [[First Session Prompt]]
+- [[Filing Rules]]
+- [[Output Rules]]
+- [[Privacy Rules]]
+- [[Operating Rules]]
 
 ## Finance Outputs
 

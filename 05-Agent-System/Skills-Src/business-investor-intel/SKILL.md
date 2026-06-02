@@ -5,6 +5,10 @@ description: Process investor meetings, fundraising feedback, objections, narrat
 
 # Investor Intel
 
+## Shared Rules
+
+Before creating files, changing structure, or preserving content, read the relevant files in `05-Agent-System/Rules/`.
+
 Use this skill for investor calls, fundraising prep, investor updates, and fundraising narrative work.
 
 ## Workflow

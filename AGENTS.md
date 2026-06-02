@@ -12,6 +12,15 @@ This vault is a template for running an LLM-maintained business second brain in 
 - If context is missing, ask targeted questions and file the answer in the relevant business page.
 - Every ingest, preserved query, lint pass, and decision capture must append an entry to `log.md`.
 
+## Shared Rules
+
+Read the relevant files in `05-Agent-System/Rules/` before creating files, changing structure, or preserving sensitive content:
+
+- [[Filing Rules]] - where new evidence and synthesis belong; when new folders, pages, or MOCs are justified.
+- [[Output Rules]] - evidence quality, citations, source links, and uncertainty.
+- [[Privacy Rules]] - data minimization and sensitive-content handling.
+- [[Operating Rules]] - logging, action confirmation, maintenance, and cleanup.
+
 ## Core Layout
 
 - `00-Inbox/`: unprocessed captures.
